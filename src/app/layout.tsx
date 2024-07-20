@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Pokemon SSR',
-  description: 'Next Server Side Rendering with Pokemon API.',
+  description: 'Next Server Side Rendering with Pokemon API',
 };
 
 export default function RootLayout({
